@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate fullstack developer🚀
 
 ## 📊 GitHub Stats
 ![Ak1Ena's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ak1Ena&show_icons=true&bg_color=00000000&theme=flag-india&text_color=000000)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ak1Ena&layout=compact&langs_count=10&count_private=true&theme=white&title_color=FFA500&text_color=000000&card_width=450px&text_bold=true)
 ## ⏳ Work in Progress
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ak1Ena)](https://git.io/streak-stats)
 
